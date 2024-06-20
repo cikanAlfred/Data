@@ -1,15 +1,15 @@
-Kraj,Prumerny_Vek,Nazev,HDP_na_1_obyvatele
-CZ0200000000,41.6,Středočeský Kraj,557.6
-CZ0100000000,41.4,Hlavní město Praha,1453.6
-CZ0310000000,43.2,Jihočeský Kraj,480.5
-CZ0320000000,43.0,Plzeňský Kraj,553.5
-CZ0410000000,43.6,Karlovarský Kraj,377.9
-CZ0420000000,42.7,Ústecký Kraj,440.7
-CZ0510000000,42.7,Liberecký Kraj,457.7
-CZ0520000000,43.6,Královehradecký Kraj,543.1
-CZ0530000000,42.9,Pardubický Kraj,513.2
-CZ0630000000,43.4,Kraj Vysočina,474.3
-CZ0640000000,42.4,Jihomoravský Kraj,624.8
-CZ0710000000,43.3,Olomoucký Kraj,503.7
-CZ0800000000,43.3,Moravskoslezský Kraj,499.8
-CZ0720000000,43.8,Zlínský Kraj,524.9
+Kraj,Prumerny_Vek,Nazev,HDP_na_1_obyvatele,Nezamestnanost
+CZ0200000000,41.6,Středočeský Kraj,557.6,1.2
+CZ0100000000,41.4,Hlavní město Praha,1453.6,1.6
+CZ0310000000,43.2,Jihočeský Kraj,480.5,1.4
+CZ0320000000,43.0,Plzeňský Kraj,553.5,2.1
+CZ0410000000,43.6,Karlovarský Kraj,377.9,4.0
+CZ0420000000,42.7,Ústecký Kraj,440.7,3.0
+CZ0510000000,42.7,Liberecký Kraj,457.7,2.0
+CZ0520000000,43.6,Královehradecký Kraj,543.1,2.7
+CZ0530000000,42.9,Pardubický Kraj,513.2,1.8
+CZ0630000000,43.4,Kraj Vysočina,474.3,1.6
+CZ0640000000,42.4,Jihomoravský Kraj,624.8,1.8
+CZ0710000000,43.3,Olomoucký Kraj,503.7,3.4
+CZ0800000000,43.3,Moravskoslezský Kraj,499.8,4.0
+CZ0720000000,43.8,Zlínský Kraj,524.9,2.0
